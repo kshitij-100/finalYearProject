@@ -23,10 +23,14 @@
         </li>
          <li class="nav-item">
           <a class="nav-link" href="#">analyze reveiw</a>
-        </li>
-        
-        
+        </li> 
       </ul>
+	    
+      <form class="d-flex">
+        <script async src="https://cse.google.com/cse.js?cx=338cbf5549cc84863">
+        </script>
+        <div class="gcse-search"></div>
+      </form>
       
     </div>
   </div>
